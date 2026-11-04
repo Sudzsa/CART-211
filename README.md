@@ -3,10 +3,10 @@
 
 > ![add an Image](./assets/images)
 
-## [YOUR NAME]'s Repository
+## Leanne's Repository
 
-This is [YOUR NAME]'s coursework  
-repository for [COURSENAME] course at Concordia University.
+This is Leanne's coursework  
+repository for CART 211 course at Concordia University.
 
 [View the Github Repository](https://github.com/YOUR_USER/REPOSITORY_TITLE)
 
